@@ -3,7 +3,7 @@ import png from "./assets/1.png";
 console.log(x);
 console.log(png);
 
-// const div = document.getElementById("app");
+const div = document.getElementById("app");
 // console.log(div);
 // div.innerHTML = `
 //     <img src="${png}">
